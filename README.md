@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
 
 
--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icon7777&show_icons=true&theme=radical)
+
 
 <!--
 **icon7777/icon7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icon7777&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
