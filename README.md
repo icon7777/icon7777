@@ -1,14 +1,14 @@
 <a href="https://khjtech.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/icon0320@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/icon0320@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 ### Hi there 👋
 
-💪 Skills
-
-Platforms & Languages
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
-
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+</p>
 
 
 
