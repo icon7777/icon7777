@@ -6,7 +6,7 @@
 ### 💪 Skills
 #### Languages & Platforms 
 <p>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" style="width:120px;">
 </p>
 <p>
 </P>
