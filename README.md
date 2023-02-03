@@ -8,13 +8,14 @@
 <p>
   <img src="http://1.234.189.11/gitlogo/Java-e.png" style="height:100px;">
   <img src="http://1.234.189.11/gitlogo/javascript.png" style="height:100px;">
+  <img src="http://1.234.189.11/gitlogo/sql.png" style="height:100px;">
 </p>
 
-#### Languages
 #### Platforms 
 <p>
   <img src="http://1.234.189.11/gitlogo/spring.png" style="height:100px;">
-  <img src="http://1.234.189.11/gitlogo/springboot.png" style="height:100px;">
+  <img src="http://1.234.189.11/gitlogo/springbooticon.png" style="height:100px;">
+  <img src="http://1.234.189.11/gitlogo/springsecurity.png" style="height:100px;">
 </P>
 
 
