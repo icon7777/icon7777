@@ -1,14 +1,16 @@
 <a href="https://khjtech.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/icon0320@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
+var heightSize = 80px;
+
 ### Hi there 👋
 
 ### 💪 Skills
 #### Languages
 <p>
-  <img src="http://1.234.189.11/gitlogo/Java-e.png" style="height:100px;">
-  <img src="http://1.234.189.11/gitlogo/javascript.png" style="height:100px;">
-  <img src="http://1.234.189.11/gitlogo/sql.png" style="height:100px;">
+  <img src="http://1.234.189.11/gitlogo/Java-e.png" style="height:heightSize;">
+  <img src="http://1.234.189.11/gitlogo/javascript.png" style="height:heightSize;">
+  <img src="http://1.234.189.11/gitlogo/sql.png" style="height:heightSize;">
 </p>
 
 #### Platforms 
