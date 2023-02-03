@@ -4,11 +4,15 @@
 ### Hi there 👋
 
 ### 💪 Skills
-#### Languages & Platforms 
+#### Languages
 <p>
   <img src="http://1.234.189.11/gitlogo/Java-e.png" style="width:100px;">
+  <img src="http://1.234.189.11/gitlogo/javascript.png" style="width:100px;">
 </p>
+#### Platforms 
 <p>
+  <img src="http://1.234.189.11/gitlogo/spring.png" style="width:100px;">
+  <img src="http://1.234.189.11/gitlogo/springboot.png" style="width:100px;">
 </P>
 
 
