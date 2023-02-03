@@ -6,9 +6,7 @@
 ### 💪 Skills
 #### Languages & Platforms 
 <p>
-  <img src="http://1.234.189.11/gitlogo/Java.png" style="width:100px;">
-  
-  
+  <img src="http://1.234.189.11/gitlogo/Java-e.png" style="width:100px;">
 </p>
 <p>
 </P>
