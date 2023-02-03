@@ -6,13 +6,9 @@
 ### 💪 Skills
 #### Languages & Platforms 
 <p>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" style="width:80px;"/>
-  
-  <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </P>
 
 
