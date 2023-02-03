@@ -6,7 +6,7 @@
 ### 💪 Skills
 #### Languages & Platforms 
 <p>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" style="width:80px;"/>
   
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript"/>
 </p>
