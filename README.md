@@ -1,5 +1,5 @@
 <a href="https://khjtech.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
+<img src="https://img.shields.io/badge/icon0320@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
 
 ### Hi there 👋
 
