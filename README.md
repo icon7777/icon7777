@@ -17,7 +17,10 @@
   <img src="http://1.234.189.11/gitlogo/springbooticon.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/springdata.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/springsecurity.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/docker.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/jenkins.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/querydsl.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/Flyway_logo.png" style="height:80px;">
 </P>
 
 
