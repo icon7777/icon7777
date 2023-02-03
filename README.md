@@ -6,17 +6,17 @@
 ### 💪 Skills
 #### Languages
 <p>
-  <img src="http://1.234.189.11/gitlogo/Java-e.png" style="height:80px;">
-  <img src="http://1.234.189.11/gitlogo/javascript.png" style="height:80px;">
-  <img src="http://1.234.189.11/gitlogo/sql.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/Java-e.png" style="height:80px;margin-right:10px;">
+  <img src="http://1.234.189.11/gitlogo/javascript.png" style="height:80px;margin-right:10px;">
+  <img src="http://1.234.189.11/gitlogo/sql.png" style="height:80px;margin-right:10px;">
 </p>
 
 #### Platforms 
 <p>
-  <img src="http://1.234.189.11/gitlogo/spring.png" style="height:80px;">
-  <img src="http://1.234.189.11/gitlogo/springbooticon.png" style="height:80px;">
-  <img src="http://1.234.189.11/gitlogo/springdata.png" style="height:80px;">
-  <img src="http://1.234.189.11/gitlogo/querydsl.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/spring.png" style="height:80px;margin-right:10px;">
+  <img src="http://1.234.189.11/gitlogo/springbooticon.png" style="height:80px;margin-right:10px;">
+  <img src="http://1.234.189.11/gitlogo/springdata.png" style="height:80px;margin-right:10px;">
+  <img src="http://1.234.189.11/gitlogo/querydsl.png" style="height:80px;margin-right:10px;">
 </P>
 
 
