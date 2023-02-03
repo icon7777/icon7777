@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=#6DB33F&logoColor=6DB33F"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=6DB33F"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icon7777&show_icons=true&theme=radical)
+
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icon7777&show_icons=true&theme=radical)
+
 <!--
 **icon7777/icon7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
