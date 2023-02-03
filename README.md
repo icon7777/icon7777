@@ -26,9 +26,10 @@
 
 ### DB
 <p>
-  <img src="http://1.234.189.11/gitlogo/oracle.png" style="height:80px;">
-  <img src="http://1.234.189.11/gitlogo/mysql.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/oraclelogo.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/mysql-e.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/mariadb.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/mongodb.png" style="height:80px;">
 </p>
 
 ### Server
@@ -47,7 +48,7 @@
 
 ### Interest
 <p>
-  <img src="http://1.234.189.11/gitlogo/redis.png" style="height:80px;">
+  <img src="http://1.234.189.11/gitlogo/redislogo.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/kafka.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/elasticsearch.png" style="height:80px;">
   <img src="http://1.234.189.11/gitlogo/node.png" style="height:80px;">
