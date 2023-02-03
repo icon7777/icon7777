@@ -7,7 +7,7 @@
 #### Languages & Platforms 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
