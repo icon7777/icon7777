@@ -6,7 +6,9 @@
 ### 💪 Skills
 #### Languages & Platforms 
 <p>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" style="width:120px;">
+  <img src="https://nalinidesignprofile.files.wordpress.com/2013/08/java-logo.jpg" style="width:80px;">
+  
+  
 </p>
 <p>
 </P>
