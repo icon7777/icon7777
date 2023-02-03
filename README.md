@@ -6,7 +6,7 @@
 ### 💪 Skills
 #### Languages & Platforms 
 <p>
-  <img src="https://nalinidesignprofile.files.wordpress.com/2013/08/java-logo.jpg" style="width:80px;">
+  <img src="http://1.234.189.11/gitlogo/Java.png" style="width:80px;">
   
   
 </p>
